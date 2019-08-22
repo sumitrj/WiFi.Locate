@@ -18,10 +18,9 @@ WiFi based location systems have been tested in various environments. The use of
 ## Proposed Solution:
 
 ### Hardware:
-<b> 
-1. Raspberry Pi 0 ($5)
 
-2. WiFi routers in the environment (that are mostly already installed in indoor environments)
+#### 1. Raspberry Pi 0 ($5)
+#### 2. WiFi routers in the environment (that are mostly already installed in indoor environments)
 </b>
 Performance of WiFi based localization systems can be improved significantly by using Intelligent Calibration Techniques. Although this method observes a trade off in precision and sensitivity of the sensor but both are well within tolerance for the considered applications.
 
