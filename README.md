@@ -1,4 +1,4 @@
-# Locate.WiFi
+# WiFi.Locate
 
 ## Indoor Positioning System:
 GPS or Global positioning systems are widely used to pin-point location of considered hardware in the global coordinate system.
