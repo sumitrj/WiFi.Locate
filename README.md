@@ -10,9 +10,9 @@ The places which demand precision of less than 10m are generally indoor environm
 WiFi based location systems have been tested in various environments. The use of Ultrawideband waves to make an indoor positioning system has exhibited excellent sensitivity of upto 1cm. 
 
 #### However accurate or precise, 
-##### UWband based localization systems are very expensive 
-##### Have high power requirements
-##### Need regular maintainence
+##### 1. UWband based localization systems are very expensive 
+##### 2. Have high power requirements
+##### 3. Need regular maintainence
 
 ## Proposed Solution:
 
