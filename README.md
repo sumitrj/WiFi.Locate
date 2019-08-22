@@ -35,3 +35,5 @@ A new prediction function is made in order to invert the operations done while p
 #### 1. Speed: needs less than 0.75ms to make predictions.
 #### 2. Accuracy: 82.07%
 #### 3. Precision: 10cm
+
+#### P.S The File RSSItoDistance.xlsx contains the data of the RSSI values and the corresponding distance in the given environment. In case of usage, for better results, the reader is advised to make their own data set and then run the python script.  
