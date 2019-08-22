@@ -31,7 +31,7 @@ After detailed preprocessing and, training and testing over various degrees of p
 
 A new prediction function is made in order to invert the operations done while preprocessing. Now, this function can be directly used to predict Distance based on RSSI values. 
 
-## Observed imporovement in functioning:
+## Imporovements observed in functioning:
 #### 1. Speed: needs less than 0.75ms to make predictions.
 #### 2. Accuracy: 82.07%
 #### 3. Precision: 10cm
