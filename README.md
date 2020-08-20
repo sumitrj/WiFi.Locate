@@ -1,5 +1,9 @@
 # WiFi.Locate
 
+### Note:
+
+This repository is just for learning purposes of fellow students like me. We have presented the techniques at [ICCCNT](https://11icccnt.com/) and signed the IP rights agreement with IEEE, agreeing to let them publish this.
+
 ## Indoor Positioning System:
 GPS or Global positioning systems are widely used to pin-point location of considered hardware in the global coordinate system.
 Although huge number of satellites are used to accompalish this and these systems continue to imrove accuracy, they are not accurate when precision of distance less than 10m is intended.
